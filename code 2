@@ -1,4 +1,11 @@
-input("hi there, what is your name?")
-print(input)
-print("hello")
-print("how are you"?)
+
+
+answer = input("hi there, what is your name?") 
+
+2 print("hello") 
+
+3 print(answer) 
+
+4 print("how are you?")
+
+
