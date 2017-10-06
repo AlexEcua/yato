@@ -1,2 +1,4 @@
 mynumber = int(input("Please enter a number"))
+mynumber2 = int(input("Please enter another number"))
+(mynumber + mynumber2)
 
