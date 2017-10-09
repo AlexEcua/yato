@@ -1,4 +1,4 @@
-radius= input("Radius:")
+radius= float(input("Radius:"))
 pi= 3.14
 area= pi * radius ** 2
 print = (area) 
