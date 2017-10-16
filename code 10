@@ -1,1 +1,2 @@
-print("Hello Alex")
+name = input("Name:")
+age= float(input("your age:"))
